@@ -1,4 +1,5 @@
 # bookshop-front
+http://47.106.245.151:8080/
 
 ## Project setup
 ```
