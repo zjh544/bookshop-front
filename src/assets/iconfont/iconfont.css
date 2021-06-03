@@ -1,0 +1,71 @@
+@font-face {
+  font-family: 'iconfont';  /* Project id 2479344 */
+  src: url('//at.alicdn.com/t/font_2479344_47xnt9otw53.woff2?t=1620037099114') format('woff2'),
+       url('//at.alicdn.com/t/font_2479344_47xnt9otw53.woff?t=1620037099114') format('woff'),
+       url('//at.alicdn.com/t/font_2479344_47xnt9otw53.ttf?t=1620037099114') format('truetype');
+}
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 24px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-002dianhua:before {
+  content: "\e601";
+}
+
+.icon-books:before {
+  content: "\e603";
+}
+
+.icon-qq:before {
+  content: "\e63b";
+}
+
+.icon-weixin:before {
+  content: "\e63c";
+}
+
+.icon-weibo:before {
+  content: "\e63d";
+}
+
+.icon-065chakandingdan:before {
+  content: "\e643";
+}
+
+.icon-066bianjizhanghu:before {
+  content: "\e644";
+}
+
+.icon-080jiating:before {
+  content: "\e655";
+}
+
+.icon-user11:before {
+  content: "\e667";
+}
+
+.icon-jianyi:before {
+  content: "\e607";
+}
+
+.icon-add:before {
+  content: "\e6a4";
+}
+
+.icon-alipay:before {
+  content: "\e627";
+}
+
+.icon-delete:before {
+  content: "\e6b8";
+}
+
+
+.icon-book:before {
+  content: "\e688";
+}
+
